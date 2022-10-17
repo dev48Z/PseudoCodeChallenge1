@@ -1,0 +1,14 @@
+a= argent disponible p= prix horaire ane
+a> 0 et p > 0
+
+début nombredanes( a , p)
+tant que  a > 0 et p > 0 
+a = 92,47 > 0 et p = 20,14 > 0
+
+retourner nombredanes <- a/p
+92,47/20,14
+
+afficher nombredanes : 4
+
+Fin nombredanes
+
